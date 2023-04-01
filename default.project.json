@@ -1,5 +1,5 @@
 {
-	"name": "flamework-game",
+	"name": "circuit-builder",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json"

@@ -19,9 +19,5 @@
 		"eslint:recommended",
 		"plugin:@typescript-eslint/recommended",
 		"plugin:roblox-ts/recommended",
-		"plugin:prettier/recommended"
 	],
-	"rules": {
-		"prettier/prettier": "warn"
-	}
 }

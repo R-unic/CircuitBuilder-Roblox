@@ -1,6 +1,9 @@
 import { Networking } from "@flamework/networking";
+import { ComponentName } from "types/global";
 
-interface ServerEvents {}
+interface ServerEvents {
+  placeCircuitComponent(name: ComponentName, cf: CFrame): void;
+}
 
 interface ClientEvents {}
 
